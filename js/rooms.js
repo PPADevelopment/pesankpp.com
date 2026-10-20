@@ -113,7 +113,7 @@ const WISMA_UNITS = WISMA_BUILDINGS.flatMap(wismaUnits);
 export const ROOMS = [
   { id: "vision-hall", isExternal: false, name: "Vision Hall", category: "Ampitheater", roomClass: "Ampitheater", capacity: 100, area: 190.4, floor: "Gedung Utama Kawasan Pendidikan dan Pelatihan, Lantai 1", priceDay: 3130000, priceWeek: 17580000,
     desc: "Ruang ampitheater bertingkat dengan meja lengkung mengikuti kontur ruangan, cocok untuk seminar, kuliah umum, dan pelatihan skala besar.",
-    facilities: ["Kursi bertingkat", "Proyektor & layar besar", "Sound sistem", "Pencahayaan panggung"],
+    facilities: ["Kursi bertingkat", "Proyektor & layar besar", "Sound system", "Pencahayaan panggung"],
     img: "images/vision-hall.jpg" },
   { id: "catalyst", isExternal: false, name: "Catalyst Room", category: "Ruang Pelatihan", roomClass: "Kelas Besar", capacity: 100, area: 190.4, floor: "Gedung Utama Kawasan Pendidikan dan Pelatihan, Lantai 1", priceDay: 3130000, priceWeek: 17580000,
     desc: "Ruang pelatihan dengan kursi meja lipat yang bisa disusun ulang, layar interaktif, dan TV — fleksibel untuk berbagai format kelas.",
@@ -141,7 +141,7 @@ export const ROOMS = [
     img: "images/ideation.jpeg" },
   { id: "inspire-hall", isExternal: false, name: "Inspire Hall", category: "Ampitheater", roomClass: "Ampitheater", capacity: 100, area: 190.4, floor: "Gedung Utama Kawasan Pendidikan dan Pelatihan, Lantai 2", priceDay: 3130000, priceWeek: 17580000,
     desc: "Ruang Ampitheater bertingkat dengan meja lengkung mengikuti kontur ruangan, cocok untuk seminar, kuliah umum, dan pelatihan skala besar.",
-    facilities: ["Kursi bertingkat", "Proyektor & layar besar", "Sound sistem", "Pencahayaan panggung"],
+    facilities: ["Kursi bertingkat", "Proyektor & layar besar", "Sound system", "Pencahayaan panggung"],
     img: "images/inspire-hall.jpeg" },
   { id: "ignite", isExternal: false, name: "Ignite Room", category: "Ruang Pelatihan", roomClass: "Kelas Sedang", capacity: 35, area: 72.5, floor: "Gedung Utama Kawasan Pendidikan dan Pelatihan, Lantai 1", priceDay: 1200000, priceWeek: 6700000,
     desc: "Ruang pelatihan berukuran sedang dengan kursi meja lipat yang fleksibel disusun ulang dan TV presentasi.",
